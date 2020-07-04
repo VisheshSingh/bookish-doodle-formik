@@ -16,7 +16,8 @@ label {
 }
 
 input,
-textarea {
+textarea,
+select {
   display: block;
   width: 400px;
   padding: 0.5rem 1rem;
