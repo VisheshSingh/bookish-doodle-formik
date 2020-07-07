@@ -26,11 +26,13 @@ select {
   margin-bottom: 1.5rem;
 }
 
-.radio {
+.radio,
+.checkbox {
   display: flex;
 }
 
-.radio input {
+.radio input,
+.checkbox input {
   width: 10%;
 }
 
