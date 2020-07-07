@@ -26,6 +26,14 @@ select {
   margin-bottom: 1.5rem;
 }
 
+.radio {
+  display: flex;
+}
+
+.radio input {
+  width: 10%;
+}
+
 button {
   background-color: #e7e7e7;
   padding: 0.5rem 1rem;
